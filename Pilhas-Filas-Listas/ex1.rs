@@ -11,5 +11,5 @@ fn main() {
         altura: 1.65, 
     };
 
-    println!("Nome: {}, Idade: {}, Altura: {}," pessoa.nome, pessoa.idade, pessoa.altura);
+    println!("\nNome: {} \nIdade: {} \nAltura: {}", pessoa.nome, pessoa.idade, pessoa.altura);
 }
